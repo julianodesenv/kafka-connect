@@ -2,7 +2,7 @@ version: "3"
 
 services:  
   mysql:
-    image: wesleywillians/mysql-kafka-connect:latest
+    image: julianodesenv/mysql-kafka-connect:latest
     command: --innodb-use-native-aio=0
     tty: true
     restart: always
