@@ -1,4 +1,4 @@
-# kafka-connect
+# Kafka Connect
 
 ## O que é o Kafka Connect?
 
@@ -40,4 +40,4 @@ none: Faz a tarefa falhar imediatamente
 all: Erros são ignorados e o processo continua normalmente
 errors.deadletterqueue.topic.name = <nome-do-topico>
 
-# Conectores: https://www.confluent.io/
+### Conectores: https://www.confluent.io/
