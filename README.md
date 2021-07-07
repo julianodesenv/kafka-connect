@@ -38,6 +38,6 @@ Quando há um registro inválido, independente da razão, o erro pode ser tratad
 
 none: Faz a tarefa falhar imediatamente
 all: Erros são ignorados e o processo continua normalmente
-errors.deadletterqueue.topic.name = <nome-do-topico>
+errors.deadletterqueue.topic.name = < nome-do-topico >
 
 ### Conectores: https://www.confluent.io/
